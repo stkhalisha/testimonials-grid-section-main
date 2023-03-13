@@ -25,15 +25,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/stkhalisha/testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://stkhalisha-testimonials-grid-section-main.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/stkhalisha/testimonials-grid-section-main)
+- Live Site URL: [Live site URL](https://stkhalisha-testimonials-grid-section-main.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- [Tailwindcss](https://tailwindcss.com/) CSS Framework
+- [Tailwindcss](https://tailwindcss.com/) (CSS Framework)
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
@@ -54,13 +54,7 @@ To see how you can add code snippets, see below:
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+If you want more help with Grid Template Columns on Tailwindcss, i'd recommend checking out [Grid Template Columns](https://tailwindcss.com/docs/grid-template-columns) to learn more.
 
 ### Useful resources
 
