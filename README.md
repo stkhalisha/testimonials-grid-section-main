@@ -1,5 +1,7 @@
 # Frontend Mentor - Testimonials grid section solution
 
+<img width="1439" alt="Screenshot 2023-03-13 at 17 45 35" src="https://user-images.githubusercontent.com/60285814/224679932-296b9d42-a1f0-481d-b727-e831d16b2bc0.png">
+
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
@@ -23,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/stkhalisha/testimonials-grid-section-main)
+- Live Site URL: [Add live site URL here](https://stkhalisha-testimonials-grid-section-main.vercel.app/)
 
 ## My process
 
