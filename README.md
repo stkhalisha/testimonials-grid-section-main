@@ -40,21 +40,18 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+To see how you can add Grid Column & Rows Start / End see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="grid grid-cols-6 gap-4">
+  <div class="col-start-2 col-span-4 ...">01</div>
+  <div class="col-start-1 col-end-3 ...">02</div>
+  <div class="col-end-7 col-span-2 ...">03</div>
+  <div class="col-start-1 col-end-7 ...">04</div>
+</div>
 ```
 
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-If you want more help with Grid Template Columns on Tailwindcss, i'd recommend checking out [Grid Template Columns](https://tailwindcss.com/docs/grid-template-columns) to learn more.
+If you want more help with Grid Column & Rows Start / End on Tailwindcss, i'd recommend checking out [Grid Column & Rows Start / End](https://tailwindcss.com/docs/grid-column) to learn more.
 
 ### Useful resources
 
